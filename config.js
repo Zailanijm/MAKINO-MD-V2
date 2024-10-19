@@ -11,13 +11,13 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
+global.autoRecord = false;                //make true to enable auto recording
 global.autoviewstatus = false;                 //make true to view statuses 
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-L9ckjYAK#4hAt66dXK7RPni5iMlDE0fF9bEg9-FhKRDEDMx7lqag"
+global.Owner = ["2347066004150"]; //like 2347080968564 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
@@ -34,7 +34,7 @@ global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic7.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
-global.OwnerNumber = [""] //Ignore,Unused
+global.OwnerNumber = ["+2347066004150"] //Ignore,Unused
 
 //
 global.ntilinkytvid = []
